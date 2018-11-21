@@ -1,0 +1,12 @@
+{
+  "name": "jqdoublescroll",
+  "version": "0.6.0",
+  "description": "A Simple jQuery plugin to display additional scrollbar on top of the element.   *This plugin does not requires jQuery-UI*",
+  "main": "jquery.doubleScroll.js",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avianey/jqDoubleScroll/issues"
+  },
+  "homepage": "https://github.com/avianey/jqDoubleScroll#readme"
+}
